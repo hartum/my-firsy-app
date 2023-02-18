@@ -1,0 +1,8 @@
+{
+  "name": "myFirsyApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "03fdd404"
+}
